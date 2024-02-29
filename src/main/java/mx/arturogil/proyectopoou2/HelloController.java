@@ -13,6 +13,6 @@ public class HelloController {
     }
 
     public void helloWorld() {
-        System.out.println("HELLO");
+        System.out.println("HELLO WORLD");
     }
 }
